@@ -1,2 +1,2 @@
-# TeamPulse-
+# TeamPulse
 Developer Productivity Intelligence Tool
